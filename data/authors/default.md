@@ -1,16 +1,18 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Hamza Hayd
+avatar: /static/images/my-image.jpg
+occupation: Software [Java] Developer
+company: TietoEVRY
+email: hamzahayd16@gmail.com
+github: https://github.com/Hamza1001101
+twitter: https://twitter.com/HamzaHayd17
+linkedin: https://www.linkedin.com/in/hamza-hayd-5b86a5166
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+### Hey you'll 👋🏽 <br />
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
+Welcome to my side of the internet, Glad you make it. <br />
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I'm an aspiring Full-Stack Java Developer with a passion for creative solutions like designing, building, and maintaining modern APIs and web applications.
+
+Proficient in Java, Spring, Spring boot, Quarkus | Experience with Nodejs, JavaScript, Reactjs, Nextjs, CSS, C#, Asp.net MVC, MongoDB, and SQL.
