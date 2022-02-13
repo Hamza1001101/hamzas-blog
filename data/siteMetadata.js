@@ -1,7 +1,7 @@
 const siteMetadata = {
   title: 'Next.js Starter Blog',
   author: 'Hamza Hayd',
-  headerTitle: 'TailwindBlog',
+  headerTitle: 'Hamza Hayd',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
   theme: 'system', // system, dark or light
